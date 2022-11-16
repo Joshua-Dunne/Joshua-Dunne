@@ -1,9 +1,9 @@
 # Joshua Dunne
-Hi there! I'm currently a final year Student, studying Games Development in IT Carlow (Course Code: CW208).
+Hi there! I'm a Graduate from SETU Carlow, where I participated in a course focused on Games Development (Course Code: CW208).
 
 I like to work on my own ideas in my spare time, where I try to develop my current skills further.
 
-## Running Modules:
+## Modules from Final Year:
 - Online Gaming Technology
 - AI Games
 - Games Engineering 2
